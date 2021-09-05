@@ -1,4 +1,4 @@
-const preloader = document.querySelector('.preloader');//элемент загрузки
+const preloader = document.querySelector('.preloader');//вывод рублей в валюте
 preloader.style.cssText = 'position: absolute; margin-left: 93%';
 
 const wrap = document.createElement('div');//wrap
